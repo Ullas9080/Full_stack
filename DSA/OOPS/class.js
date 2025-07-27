@@ -95,28 +95,31 @@
 // child.bye();
 // const sub = new sub_child();
 // sub;
+//
+// class Encap{
+//
+//     #balance=0;
+//
+//     setBalance(balance){
+// return this.#balance+=balance
+//     }
+//
+//     getBalance(){
+//         return this.#balance
+//     }
+// }
+//
+// class sub_Encap extends Encap{
+//
+//
+// }
+//
+// const sub=new sub_Encap
+// sub.setBalance(100)
+// sub.setBalance(100)
+// sub.setBalance(100)
+// sub.setBalance(100)
+// console.log(sub.getBalance())
 
-class Encap{
-
-    #balance=0;
-
-    setBalance(balance){
-return this.#balance+=balance
-    }
-
-    getBalance(){
-        return this.#balance
-    }
-}
-
-class sub_Encap extends Encap{
-
-
-}
-
-const sub=new sub_Encap
-sub.setBalance(100)
-sub.setBalance(100)
-sub.setBalance(100)
-sub.setBalance(100)
-console.log(sub.getBalance())
+console.log('Hello')
+console.log('Hello git')
