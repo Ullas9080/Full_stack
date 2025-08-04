@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Devops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Devops/Docker/docker-testapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Devops/ci-cd_actions" vcs="Git" />
   </component>
 </project>

@@ -6,14 +6,14 @@ const propmt=require('prompt-sync')();
 // a.push(100)
 // a.push(100)
 // a.push("ali")
-//
+
 // a[0]=true
 // a.pop()
 // console.log(a)
-//
+
 // let b=10;
 // let c=120;
-//
+
 // let arr=new Array(3);
 // arr[4]=10
 // console.log(arr)
@@ -22,17 +22,17 @@ const propmt=require('prompt-sync')();
 //     if (n <= 1) return false;
 //     if (n === 2) return true;
 //     if (n % 2 === 0) return false;
-//
+
 //     for (let i = 3 ; i <= Math.floor(Math.sqrt(n)) ; i += 2) {
 //         if (n % i === 0) return false;
-//
+
 //     }
 //     return true
-//
+
 // }
-//
+
 // console.log(isPrime(19))
-//
+
 // let arr=[]
 // let n=Number(propmt("Enter the number of array element"))
 // for(let i=0;i<n;i++){
@@ -54,7 +54,7 @@ const propmt=require('prompt-sync')();
 // let arr=[10,40,53,20,103,1,108,110,70,65,110,45,60,109];
 // let max=Math.max(arr[0],arr[1]);
 // let smax=Math.min(arr[0],arr[1]);
-//
+
 // for (let i = 2 ; i < arr.length ; i++) {
 //   if(arr[i]>max){
 //       smax=max
